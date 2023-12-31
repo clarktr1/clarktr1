@@ -1,4 +1,6 @@
 ![banner](banner.png)
+
+<h2>Hello there! My name is Trey Clark. </h2>
 <!--
 **clarktr1/clarktr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
