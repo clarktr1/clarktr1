@@ -42,11 +42,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-EF32AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ReactJS-1511B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ReactJS-1511B6?style=for-the-badge&logo=React" />
 <img src="https://img.shields.io/badge/Sequelize-EFF32A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GIT-EF342F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NodeJS-AFff3A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ExpressJS-AA32AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GIT-EFFFFF?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/NodeJS-AFff3A?style=for-the-badge&logo=nodejs" />
+<img src="https://img.shields.io/badge/ExpressJS-AA32AB?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/tRPC-00A0A0?style=for-the-badge" />
 </div>
 
