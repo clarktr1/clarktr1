@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/B3YWcZy.png" />
 <br>
 	
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=clarktr1.clarktr1)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=clarktr1.league-tracker)
 <h2>Hello there! My name is <span style="color: blue;">Trey Clark</span> and I am a professional software engineer/full stack developer/cat dad. I come from a background of teaching music for 8 years. I have a passion for creativity and working with peers to create meanginful projects. I have a proven track record of success in teaching Computer Science, Software Engineering with Java, and Full Stack Web Development leveraging the MERN stack. My goal is to work a like-minded team of developers so that we can build efficient and impactful products to better help the world.
 <br>
 <br>
