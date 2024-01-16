@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Spring-03739c?style=for-the-badge&logo=spring" />
 <img src="https://img.shields.io/badge/SQL-EF32AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ReactJS-1511B6?style=for-the-badge&logo=React" />
+	<br>
 <img src="https://img.shields.io/badge/Sequelize-EFF32A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GIT-EFFFFF?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/NodeJS-AFff3A?style=for-the-badge&logo=nodejs" />
