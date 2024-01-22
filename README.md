@@ -57,10 +57,11 @@
 <br>
 <br>
 
-<h1 align="center">Examples of My Work</h1>
-<table align="center" style="border-collapse: collapse; width: 100%;">
+# Examples of My Work
+
+<table align="center">
   <tr>
-    <td align="center" style="border: 2px solid #dddddd; padding: 8px;">
+    <td align="center">
       <img src="https://i.imgur.com/XsLol5Y.gif" width="350px" alt="StP" style="border-radius: 16px;">
       <br>
       <b>Save the Princess RPG Web Game</b>
@@ -68,29 +69,33 @@
       <p>email: test@example.com | | password: Password1</p>
       <br>
       <a href="https://github.com/clarktr1/Princess-Saving-Simulator/" target="_blank"><img src="https://img.shields.io/badge/Repo-blue?logo=github" width="80px" alt="Badge 1"></a>
-       <a href="https://sheltered-falls-73233.herokuapp.com/"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="104px" alt="Badge 2-1"></a>
+      <a href="https://sheltered-falls-73233.herokuapp.com/"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="104px" alt="Badge 2-1"></a>
     </td>
-    <td align="center" style="border: 2px solid #dddddd; padding: 8px;">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://i.imgur.com/OI0ViTb.gif" width="350px" alt="colorscape" style="border-radius: 16px;">
       <br>
       <b>Colorscape Collective</b>
       <p>The Colorscape Collective is a hypothetical organization that serves lower income communities by providing opportunities through teaching graffiti as a form to spread positive messages. This website is an example of a one page website that utilizes AWS for deployment. It also uses a combination of HTML, CSS, and Javascript to create a responsive and interactive website.</p>
       <br>
-        <a href="https://github.com/clarktr1/ColorScape-Collective"><img src="https://img.shields.io/badge/Repo-blue?logo=github" width="80px" alt="Badge 2"></a>
-        <a href="https://gh-pages.d2m9wsygth49f2.amplifyapp.com/"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="104px" alt="Badge 2-1"></a>
+      <a href="https://github.com/clarktr1/ColorScape-Collective"><img src="https://img.shields.io/badge/Repo-blue?logo=github" width="80px" alt="Badge 2"></a>
+      <a href="https://gh-pages.d2m9wsygth49f2.amplifyapp.com/"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="104px" alt="Badge 2-1"></a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border: 2px solid #dddddd; padding: 8px;">
+    <td align="center">
       <img src="https://i.imgur.com/7MW5X2i.gif" width="350px" alt="LoLC" style="border-radius: 16px;">
       <br>
       <b>League of Legends Compendium</b>
-           <p>This LoL Compendium is a personal project that serves as a concise resource for LoL players. It includes the free weekly champion rotations, basic user information (icon, level, rank, and 5 most recent games), and all champion information, including skills, decscription, and a video example of the skill. This application is an example of using a heavily populated API to fetch data, parse large objects into meaningful graphics, and hiding sensitive data such as API keys and database credentials.</p>
+      <p>This LoL Compendium is a personal project that serves as a concise resource for LoL players. It includes the free weekly champion rotations, basic user information (icon, level, rank, and 5 most recent games), and all champion information, including skills, decscription, and a video example of the skill. This application is an example of using a heavily populated API to fetch data, parse large objects into meaningful graphics, and hiding sensitive data such as API keys and database credentials.</p>
       <br>
       <a href="https://github.com/clarktr1/league-tracker" target="_blank"><img src="https://img.shields.io/badge/Repo-blue?logo=github" width="80px" alt="Badge 3"></a>
       <a href="https://clarktr1.github.io/league-tracker"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="104px" alt="Badge 2-1"></a>
     </td>
-    <td align="center" style="border: 2px solid #dddddd; padding: 8px;">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://i.imgur.com/D6oblSt.gif" width="350px" alt="750YP" style="border-radius: 16px;">
       <br>
       <b>750 Young Professionals</b>
@@ -100,6 +105,8 @@
     </td>
   </tr>
 </table>
+
+
 <br>
 <br>
 <h1 align="center">Java Labs</h1>
