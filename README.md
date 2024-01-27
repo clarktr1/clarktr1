@@ -104,6 +104,16 @@
       <a href="https://github.com/ec-coding/750yp-web-app/tree/dev" target="_blank"><img src="https://img.shields.io/badge/Repo-blue?logo=github" width="80px" alt="Badge 4" /></a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/moAMxes.png" width="350px" alt="750YP" style="border-radius: 16px;">
+      <br>
+      <b>750 Frisco Community Band</b>
+      <p>The Frisco Community Band strives to entertain and educate the citizens of Frisco and beyond through the art form of the American Wind Band. This is a website that serves as a information up to the community to get information on rehearsals, concert dates, as well as ways to contact the organization.  </p>
+      <br>
+      <a href="https://friscocommunityband.org" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="80px" alt="Badge 4" /></a>
+    </td>
+  </tr>
 </table>
 
 
