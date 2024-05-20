@@ -101,7 +101,7 @@
       <b>750 Young Professionals</b>
       <p>750YP is an organization based in Lewisville, TX, that focuses on networking and giving opportunities to early career professionals in the DFW area. The website serves as a base to allows users to learn about the 750YP organization, contact 750YP, as well as see and sign-up for upcoming events. Primary responsibilties include backend architecture, database normalization, and user autuhentication. </p>
       <br>
-      <a href="https://github.com/ec-coding/750yp-web-app/tree/dev" target="_blank"><img src="https://img.shields.io/badge/Repo-blue?logo=github" width="80px" alt="Badge 4" /></a>
+      <a href="https://750yp.com" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=github" width="80px" alt="Badge 4" /></a>
     </td>
   </tr>
   <tr>
