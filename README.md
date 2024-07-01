@@ -20,11 +20,6 @@
       <a href="https://linkedin.com/in/webdevtreyclark" target="_blank"> LinkedIn</a>
 </td>
 <td align="center" width="360px" valign="top">
-	<img style="border-radius:16px;" src="https://yt3.googleusercontent.com/5xCTg5cTLjTTOxLSMpvzawqr8m9_SMW61Zaf8ZrEdttYXX1jG6kmRcvK0eToqUJ3pv_YVR1nfuA=s900-c-k-c0x00ffffff-no-rj" width="30%" />
-    <br>
-    <a href="https://webdevtreyclark.com" target="_blank"> Personal Website</a>
-</td>
-<td align="center" width="360px" valign="top">
 	<img style="border-radius:16px;" src="https://static.vecteezy.com/system/resources/previews/000/571/441/original/mail-icon-vector.jpg" width="30%" />
     <br>
     <a href="mailto:itreyclark@gmail.com" target="_blank"> Email</a>
@@ -43,8 +38,9 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-03739c?style=for-the-badge&logo=spring" />
 <img src="https://img.shields.io/badge/SQL-EF32AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ReactJS-1511B6?style=for-the-badge&logo=React" />
+<img src="https://img.shields.io/badge/Python-FFA2AE?style=for-the-badge&logo=python&logoColor=orange" />
 	<br>
+<img src="https://img.shields.io/badge/ReactJS-1511B6?style=for-the-badge&logo=React" />
 <img src="https://img.shields.io/badge/Sequelize-EFF32A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GIT-EFFFFF?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/NodeJS-AFff3A?style=for-the-badge&logo=nodejs" />
@@ -108,10 +104,20 @@
     <td align="center">
       <img src="https://i.imgur.com/moAMxes.png" width="350px" alt="750YP" style="border-radius: 16px;">
       <br>
-      <b>750 Frisco Community Band</b>
+      <b>Frisco Community Band</b>
       <p>The Frisco Community Band strives to entertain and educate the citizens of Frisco and beyond through the art form of the American Wind Band. This is a website that serves as a information up to the community to get information on rehearsals, concert dates, as well as ways to contact the organization.  </p>
       <br>
       <a href="https://friscocommunityband.org" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="80px" alt="Badge 4" /></a>
+    </td>
+  </tr>
+	 <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/f4eeh4P.gif" width="350px" alt="750YP" style="border-radius: 16px;">
+      <br>
+      <b>Tateswood Energy LLC.</b>
+      <p>Tateswood Energy LLC is an Energy Consultation/Management firm based in Houston, TX. Tateswood manages power plants throughout the United States. </p>
+      <br>
+      <a href="https://tateswoodenergy.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="80px" alt="Badge 4" /></a>
     </td>
   </tr>
 </table>
