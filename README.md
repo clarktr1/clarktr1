@@ -64,7 +64,7 @@
       <b>Justin Cooperman Music</b>
       <p>Justin Cooperman is a percussion educator, composer, and performer based out of Texas. This website serves as a one-stop-shop for those interested in learning about him, purchasing his music, or contacting him for commissions or other music-related things. This website was built from the ground up using React, Vite, Material UI, and deployed via Netlify.</p>
       <br>
-      <a href="https://justincooperman.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="80px" alt="Badge 1"></a>
+      <a href="https://justincooperman.com/" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="80px" alt="Badge 1"></a>
     </td>
   </tr>
   
