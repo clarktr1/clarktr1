@@ -130,7 +130,7 @@
     </td>
   </tr>
   
-  <!-- Save the Princess RPG -->
+  <!-- Save the Princess RPG 
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/XsLol5Y.gif" width="350px" alt="Save the Princess RPG" style="border-radius: 16px;">
@@ -142,8 +142,8 @@
       <a href="https://github.com/clarktr1/Princess-Saving-Simulator/" target="_blank"><img src="https://img.shields.io/badge/Repo-blue?logo=github" width="80px" alt="Badge 7"></a>
       <a href="https://sheltered-falls-73233.herokuapp.com/"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="104px" alt="Badge 7-1"></a>
     </td>
-  </tr>
-</table>
+  </tr> --->
+</table> 
 
 
 
