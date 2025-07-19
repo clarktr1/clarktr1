@@ -25,7 +25,7 @@
     <a href="mailto:itreyclark@gmail.com" target="_blank"> Email</a>
 </td>
 <td align="center" width="360px" valign="top">
-	<img style="border-radius:16px;" src=" https://lh3.googleusercontent.com/vdKbcWCGwxtvvoZG5LK-rQcix_6mXl7Z2zzVil3ggiZ6hUETgtSVdbw0hrNAbRoCTCuSt_yn4EJrBS5XzILlYBxGIhMuikJ9nVt1HVA5nI76zA5ludsdTQF9t-ANf4lZPV7Wli9JzTrA8fj1wa5YAgcza7EK1Y8uqcj92Hjm1jaJJ10OJAkdaQg6oB7lKQ" width="30%" />
+	<img style="border-radius:16px;" src="https://www.citypng.com/public/uploads/preview/hd-networking-internet-www-globe-blue-icon-transparent-background-735811696868020xfcwv4evzf.png " width="30%" />
     <br>
     <a href="https://webdevtreyclark.com" target="_blank"> Portfolio</a>
 </td>
