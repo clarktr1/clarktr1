@@ -24,6 +24,11 @@
     <br>
     <a href="mailto:itreyclark@gmail.com" target="_blank"> Email</a>
 </td>
+<td align="center" width="360px" valign="top">
+	<img style="border-radius:16px;" src=" https://lh3.googleusercontent.com/vdKbcWCGwxtvvoZG5LK-rQcix_6mXl7Z2zzVil3ggiZ6hUETgtSVdbw0hrNAbRoCTCuSt_yn4EJrBS5XzILlYBxGIhMuikJ9nVt1HVA5nI76zA5ludsdTQF9t-ANf4lZPV7Wli9JzTrA8fj1wa5YAgcza7EK1Y8uqcj92Hjm1jaJJ10OJAkdaQg6oB7lKQ" width="30%" />
+    <br>
+    <a href="https://webdevtreyclark.com" target="_blank"> Portfolio</a>
+</td>
 </table>
 
 <br>
@@ -76,7 +81,7 @@
       <b>Tateswood Energy LLC</b>
       <p>Tateswood Energy LLC is an Energy Consultation/Management firm based in Houston, TX. Tateswood manages power plants throughout the United States, and this website serves as a destination for clients to learn or inquire about asset management services. This website was built using React, Vite, Material UI, and deployed via Netlify.</p>
       <br>
-      <a href="https://tateswoodenergy.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="80px" alt="Badge 2"></a>
+      <a href="https://tateswoodenergy.com/" target="_blank"><img src="https://img.shields.io/badge/Website-purple?logo=amazons3&logocolor=white" width="80px" alt="Badge 2"></a>
     </td>
   </tr>
   
