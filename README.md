@@ -54,7 +54,7 @@
 ## 🚀 What I’m Up To
 
 - 🎓 Full-stack software engineer at **UNT Libraries** working on large-scale digital access projects.
-- 🧠 Actively learning **AI/ML concepts** and working toward a master’s in **Computer Science**.
+- 🧠 Actively learning **AI/ML concepts** by fine-tuning a Gemma LLM to be a [Pokemon Assistant](https://pav-chat.com)! (Currently unavailable publicly because AWS is $$$)
 - 💻 Currently building [**Raid Call**](https://github.com/clarktr1/raid-call), a service for temporary voice chat rooms designed for MMO Raiders.
 - ⚔️ Designed a murder mystery party game: *The Final Toast: A Manor of Lies*.
 - 📚 Blogging about dev topics and software education at [webdevtreyclark.com/blog](https://webdevtreyclark.com/blog).
