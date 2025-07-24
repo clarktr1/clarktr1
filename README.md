@@ -55,7 +55,7 @@
 
 - 🎓 Full-stack software engineer at **UNT Libraries** working on large-scale digital access projects.
 - 🧠 Actively learning **AI/ML concepts** and working toward a master’s in **Computer Science**.
-- 💻 Recently built [**Angie’s Cookbook**](https://accookbook.com), a React + Contentful recipe app.
+- 💻 Currently building [**Raid Call**](https://github.com/clarktr1/raid-call), a service for temporary voice chat rooms designed for MMO Raiders.
 - ⚔️ Designed a murder mystery party game: *The Final Toast: A Manor of Lies*.
 - 📚 Blogging about dev topics and software education at [webdevtreyclark.com/blog](https://webdevtreyclark.com/blog).
 
